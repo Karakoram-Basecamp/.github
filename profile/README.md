@@ -22,17 +22,4 @@ We believe the best maps are drawn by those who have walked the path. Here is ho
 
 ---
 
-### 👩‍💻 Useful Resources
-
-Everything you need to gear up for your digital expedition:
-
-| Resource | Description | Link |
-| --- | --- | --- |
-| **The Sherpa Docs** | Comprehensive technical documentation and API refs. | [Explore Docs](https://www.google.com/search?q=%23) |
-| **Route Repository** | GeoJSON files for K2, Gasherbrum, and Masherbrum. | [View Data](https://www.google.com/search?q=%23) |
-| **Gear Wiki** | Community-vetted equipment lists for 8,000m+ peaks. | [View Wiki](https://www.google.com/search?q=%23) |
-| **Safety Protocols** | High-altitude medical guides and emergency procedures. | [Stay Safe](https://www.google.com/search?q=%23) |
-
----
-
 ### 🗺️ STAY TUNED ...
